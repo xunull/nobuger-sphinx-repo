@@ -1,0 +1,5 @@
+gitpython
+Sphinx
+sphinx-autobuild
+sphinx-rtd-theme
+pandoc
